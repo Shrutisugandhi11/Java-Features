@@ -1,0 +1,6 @@
+JShell (Java Shell) is a REPL (Read-Eval-Print Loop).
+Uses:
+1.Test small code snippets without writing boilerplate code.
+2.No need to worry about public static void main or project setup.
+3.Quickly try out Java library classes or custom logic.
+4.Experiment with new Java features (like var, lambdas, streams) before putting them in real code.
