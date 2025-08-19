@@ -1,3 +1,5 @@
+package org.epam.twenty;
+
 record Shape(String name, int area) {
 }
 

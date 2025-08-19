@@ -1,3 +1,5 @@
+package org.epam.twenty;
+
 public class PatternMatchingForSwitchPreview {
     public static void main(String[] args) {
         Object obj = "Hello";
