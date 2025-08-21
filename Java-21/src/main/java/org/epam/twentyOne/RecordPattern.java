@@ -1,4 +1,4 @@
-//Destruction directly in pattern
+import org.epam.twenty.Shape;//Destruction directly in pattern
 void main() {
     Shape shape = new Shape("Square", 4);
 

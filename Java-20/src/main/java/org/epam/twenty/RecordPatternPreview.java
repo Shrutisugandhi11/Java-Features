@@ -1,7 +1,5 @@
 package org.epam.twenty;
 
-record Shape(String name, int area) {
-}
 
 public class RecordPatternPreview {
     public static void main(String[] args) {
